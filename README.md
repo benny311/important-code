@@ -15,21 +15,15 @@ variable home work
 
 
 
+public class arithmatic {
 
-
-public class arithmatick {
-  public static void main(string[] args) {
+  public static int multiply(int num1, int num2){
+  	return num1*num2;
+  }
+  public static void main(String[] args) {
     
     int Y=7;
-      int X=5;
-     system.out.printIn(Y,X);
+    int X=5;
+    System.out.println(multiply(Y,X));
   }
-}
-public class arithmatic {
-  public static void main(string[] args) {
-    int myNumber = 3*5;
-		System.out.println(myNumber);
-
-  }
-
 }
