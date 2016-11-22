@@ -1,8 +1,21 @@
-# important-code- part-one
+# important-code-part-one
+variable home work
 
-it the home work
 
-variable # home work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 public class arithmatick {
   public static void main(string[] args) {
